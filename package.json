@@ -2,10 +2,10 @@
   "name": "@gs377209/my-gatsby-site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gs377209/my-gatsby-site.git"
+    "url": "git+https://github.com/gs377209/my-gatsby-site.git"
   },
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "my-gatsby-site",
   "author": "Gerrod Schirtzinger",
   "keywords": [
