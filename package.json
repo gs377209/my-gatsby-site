@@ -1,5 +1,9 @@
 {
-  "name": "my-gatsby-site",
+  "name": "@gs377209/my-gatsby-site",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gs377209/my-gatsby-site.git"
+  },
   "version": "1.0.0",
   "private": true,
   "description": "my-gatsby-site",
