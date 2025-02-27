@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/gs377209/my-gatsby-site.git"
   },
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": false,
   "description": "my-gatsby-site",
   "author": "Gerrod Schirtzinger",
@@ -29,17 +29,17 @@
     "gatsby-plugin-sharp": "^5.14.0",
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@graphql-eslint/eslint-plugin": "^3.20.1",
-    "@types/node": "^20.11.19",
-    "@types/react": "^18.2.55",
-    "@types/react-dom": "^18.2.19",
-    "@typescript-eslint/eslint-plugin": "^6.21.0",
-    "@typescript-eslint/parser": "^6.21.0",
-    "eslint": "^7.32.0",
-    "typescript": "^5.3.3"
+    "@graphql-eslint/eslint-plugin": "^4.3.0",
+    "@types/node": "^22.13.5",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^8.25.0",
+    "@typescript-eslint/parser": "^8.25.0",
+    "eslint": "^8.57.1",
+    "typescript": "^5.7.3"
   }
 }
