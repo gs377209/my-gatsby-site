@@ -29,7 +29,7 @@
     "gatsby-plugin-sharp": "^5.14.0",
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
-    "react": "^18.3.1",
+    "react": "^19.1.0",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "@eslint/js": "^9.23.0",
     "@graphql-eslint/eslint-plugin": "^4.4.0",
     "@types/node": "^22.13.17",
-    "@types/react": "^18.3.20",
+    "@types/react": "^19.1.0",
     "@types/react-dom": "^18.3.6",
     "@typescript-eslint/eslint-plugin": "^8.29.0",
     "@typescript-eslint/parser": "^8.29.0",
