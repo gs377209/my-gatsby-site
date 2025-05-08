@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
-    "gatsby": "^5.14.1",
+    "gatsby": "^5.14.3",
     "gatsby-plugin-image": "^3.14.0",
-    "gatsby-plugin-mdx": "^5.14.0",
+    "gatsby-plugin-mdx": "^5.14.1",
     "gatsby-plugin-sharp": "^5.14.0",
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
@@ -36,12 +36,12 @@
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.23.0",
     "@graphql-eslint/eslint-plugin": "^4.4.0",
-    "@types/node": "^22.13.17",
-    "@types/react": "^18.3.20",
-    "@types/react-dom": "^18.3.6",
-    "@typescript-eslint/eslint-plugin": "^8.29.0",
-    "@typescript-eslint/parser": "^8.29.0",
-    "eslint": "^9.23.0",
-    "typescript": "^5.8.2"
+    "@types/node": "^22.15.17",
+    "@types/react": "^18.3.21",
+    "@types/react-dom": "^18.3.7",
+    "@typescript-eslint/eslint-plugin": "^8.32.0",
+    "@typescript-eslint/parser": "^8.32.0",
+    "eslint": "^9.26.0",
+    "typescript": "^5.8.3"
   }
 }
